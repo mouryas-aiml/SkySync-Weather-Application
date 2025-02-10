@@ -159,7 +159,7 @@ src/
 ## 📸 Screenshots
 
 <div align="center">
-<img src="https://drive.google.com/file/d/1MKPrDQ5BDXkX0ef6hrve0ue2dG2hql5P/view?usp=drive_link" width="400" alt="Login Screen" style="border-radius: 10px;">
+<img src="https://images.unsplash.com/photo-1590055531615-f16d36ffe8ec?auto=format&fit=crop&w=400&q=80" width="400" alt="Login Screen" style="border-radius: 10px;">
 <img src="https://images.unsplash.com/photo-1592210454359-9043f067919b?auto=format&fit=crop&w=400&q=80" width="400" alt="Weather Dashboard" style="border-radius: 10px;">
 </div>
 
