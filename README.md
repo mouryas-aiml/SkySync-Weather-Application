@@ -4,13 +4,12 @@
 
 ![SkySync Banner](https://images.unsplash.com/photo-1601134467661-3d775b999c8b?w=1200&h=400&fit=crop&q=80)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/c45e0c00-c0f4-4bd6-b30a-d6eef6e2c4e5/deploy-status)](https://phenomenal-syrniki-57162b.netlify.app)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
 
-[View Demo](https://phenomenal-syrniki-57162b.netlify.app) • [Report Bug](https://github.com/yourusername/skysync/issues) • [Request Feature](https://github.com/yourusername/skysync/issues)
+[View Demo](https://phenomenal-syrniki-57162b.netlify.app) • [Report Bug](https://github.com/mouryas-aiml/SkySync-Weather-Application/issues) • [Request Feature](https://github.com/mouryas-aiml/SkySync-Weather-Application/issues)
 
 </div>
 
@@ -197,7 +196,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-Made with ❤️ by [Mourya S]
+Made With ❤️ By 🅜🅞🅤🅡🅨🅐 🅖🅞🅦🅓🅐
 
 [⬆ Back to top](#skysync-weather-application-)
 
